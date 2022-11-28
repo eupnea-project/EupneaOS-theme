@@ -1,0 +1,16 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=EupneaOS Panel
+Type=Service
+ServiceTypes=Plasma/LayoutTemplate
+X-Plasma-Shell=plasmashell
+X-Plasma-ContainmentCategories=panel
+X-KDE-PluginInfo-Author=The Eupnea Project
+X-KDE-PluginInfo-Email=stopusingemail@use-github-issues.com
+X-KDE-PluginInfo-Name=org.github.desktop.EupneaOSPanel
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL v3
+X-KDE-PluginInfo-EnabledByDefault=true
