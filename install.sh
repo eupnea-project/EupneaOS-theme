@@ -17,4 +17,4 @@ rm -rf /usr/share/wallpapers/EupneaOS-light
 rm -rf /usr/share/sddm/themes/EupneaOS
 
 echo "Copying new files..."
-cp -r aurorae color-schemes Kvantum plasma wallpaper sddm /usr/share/
+cp -r aurorae color-schemes Kvantum plasma wallpapers sddm /usr/share/
